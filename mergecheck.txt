@@ -1,2 +1,5 @@
 asdfghjklzxcvbnm
 qwertyuighjkl;
+1234567890
+0987654321
+0000000000
